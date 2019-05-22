@@ -5,7 +5,7 @@ date:   2019-05-22 17:19:08 -0500
 comments: true
 ---
 
-![alt text](https://proseful-prd-images.s3.amazonaws.com/blogs/fbad8287-18dd-4f74-a559-8cfae3fb725a/images/c077ed2a-e701-4a7c-bc92-67401a0f6712.gif "Sunrise On The International Space Station")
+![alt text](https://media.giphy.com/media/O1A7W9ipgqOpq/giphy.gif "Running in the Dark")
 
 We all, with no exception, happened to run in the dark, without knowing what served in front of us.
 
@@ -24,11 +24,9 @@ It's not what happens to you, but how you react to it that matters.
 
 There will be many surprises, you better be ready.
 
-> There are more things, Lucilius, that frighten us than injure us, and we suffer more in imagination than in reality.
+> There are more things, Lucilius, that frighten us than injure us, that we suffer more in imagination than in reality.
 Luck is what happens when preparation meets opportunity.
 As is a tale, so is life: not how long it is, but how good it is, is what matters.
-If one does not know to which port one is sailing, no wind is favorable.
-Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.
 **- Seneca**
 
 That it will never come again, is what make life so sweet.
