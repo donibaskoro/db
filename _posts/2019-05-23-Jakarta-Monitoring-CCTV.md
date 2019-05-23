@@ -12,3 +12,5 @@ comments: true
 
 2. 
 
+<iframe width="100%" height="400" src="http://cctv.balitower.co.id/Menteng-025-700503_2/embed.html?proto=hls" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
