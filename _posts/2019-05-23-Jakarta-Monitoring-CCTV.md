@@ -12,5 +12,5 @@ comments: true
 
 2. 
 
-<iframe width="100%" height="400"; allowfullscreen src="https://media.lewatmana.com/cam/mrtjakarta/272/video20190523_133002.384.mp4"></iframe>
+<iframe width="100%" height="400" allowfullscreen src="https://media.lewatmana.com/cam/mrtjakarta/272/video20190523_133002.384.mp4"></iframe>
 
