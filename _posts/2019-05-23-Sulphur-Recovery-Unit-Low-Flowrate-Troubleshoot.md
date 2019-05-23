@@ -6,3 +6,7 @@ comments: true
 ---
 
 ## Introduction
+
+SRU is the unit to which sulphure is removed from the gas[^1]
+
+[^1]: Perry Chemical Engineering Handbook
