@@ -12,5 +12,5 @@ comments: true
 
 2. 
 
-<iframe style="width:640px; height:480px;" allowfullscreen src="http://cctv.balitower.co.id/Gondangdia-001-700051_1/embed.html"></iframe>
+<iframe style="width:640px; height:480px;" allowfullscreen src="https://media.lewatmana.com/cam/mrtjakarta/272/video20190523_133002.384.mp4"></iframe>
 
