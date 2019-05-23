@@ -12,5 +12,5 @@ comments: true
 
 2. 
 
-<iframe style="width:640px; height:480px;" allowfullscreen src="data-html5-video="" muted="true" poster="http://cctv.balitower.co.id/Gondangdia-001-700051_4/preview.mp4" preload="metadata" src="blob:http://cctv.balitower.co.id/960e7147-0988-43da-ac44-a6d4c16db6cc""></iframe>
+<iframe style="width:640px; height:480px;" allowfullscreen src="blob:http://cctv.balitower.co.id/960e7147-0988-43da-ac44-a6d4c16db6cc"></iframe>
 
