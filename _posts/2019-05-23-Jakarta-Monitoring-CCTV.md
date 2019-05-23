@@ -12,4 +12,4 @@ comments: true
 
 2. 
 
-<iframe style="width:640px; height:480px;" allowfullscreen src="http://cctv.balitower.co.id/Menteng-025-700503_2/embed.html?proto=hls"></iframe>
+<iframe style="width:640px; height:480px;" allowfullscreen src="http://cctv.balitower.co.id/Gondangdia-001-700051_4/embed.html"></iframe>
